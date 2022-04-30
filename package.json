@@ -1,0 +1,27 @@
+{
+  "name": "livegollection-chatapp",
+  "version": "1.0.0",
+  "description": "ivegollection-example-app is a simple web-chat app that demonstrates how the Golang livegollection library can be used for live data synchronization between multiple web clients and the server.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamsabbiralam/livegollection-chatapp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iamsabbiralam/livegollection-chatapp/issues"
+  },
+  "homepage": "https://github.com/iamsabbiralam/livegollection-chatapp#readme",
+  "dependencies": {
+    "livegollection-client": "^0.2.2"
+  },
+  "devDependencies": {
+    "webpack": "^5.72.0",
+    "webpack-cli": "^4.9.2"
+  }
+}
